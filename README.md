@@ -1,3 +1,2 @@
 # GeneticsJs
-GENETICS JS, is a small project that generates X generations of N peoples with different genetic treats randomly, and shares their genomes to their decendents following 
-dominant/regressive rules. 
+A small evolution algorithm that simulates blobs turned into a genetics evolution algorithm with basics of genetics studied in middle school. Output data can be analysed using python.
